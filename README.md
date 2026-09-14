@@ -1,6 +1,7 @@
-**WANDER — PREMIUM IMAGE GALLERY**
+**WANDER — RESPONSIVE IMAGE GALLERY**
 
 A modern, responsive image gallery built with **HTML5, Tailwind CSS, and Vanilla JavaScript** as part of my **CodeAlpha Frontend Development Internship**.
+
 Wander is designed as a visual-first browsing experience with responsive layouts, category filtering, an interactive lightbox, keyboard navigation, mobile swipe gestures, accessibility considerations, and performance-conscious image loading.
 
 🔗 **Live Demo:**  
@@ -10,12 +11,15 @@ https://muhammederhan.github.io/CodeAlpha-Task1_Image-Gallery/
 https://github.com/MuhammedERHAN/CodeAlpha-Task1_Image-Gallery
 
 **✨ ABOUT THE PROJECT** :-
+
 Wander is a digital visual journal featuring curated imagery across **Nature, City, Portrait, and Animals** categories.
 
-Instead of building a basic static image grid, the project focuses on creating a complete image-browsing experience with smooth interactions, responsive behavior, accessible controls, and optimized image handling
+Instead of building a basic static image grid, the project focuses on creating a complete image-browsing experience with smooth interactions, responsive behavior, accessible controls, and optimized image handling.
+
 This project was developed as **Task 1 of the CodeAlpha Frontend Development Internship**, with a focus on applying practical frontend development principles to a polished, interactive interface.
 
 **🚀 KEY FEATURES** :-
+
 - 🖼️ **Responsive Masonry Gallery** — Adaptive multi-column layout for mobile, tablet, and desktop
 - 🎯 **Category Filtering** — Filter images by Nature, City, Portrait, and Animals
 - 🔢 **Dynamic Image Counter** — Updates according to the active category
@@ -31,11 +35,12 @@ This project was developed as **Task 1 of the CodeAlpha Frontend Development Int
 - ♿ **Accessibility Support** — ARIA states, keyboard controls, focus handling, and descriptive alt text
 - 📐 **Responsive Typography** — Fluid heading sizes using modern CSS techniques
 
+**🎨 UI & USER EXPERIENCE** :-
 
-**🎨 DESIGN & USER EXPERIENCE** :-
 The interface uses a dark, immersive visual direction designed to keep the imagery at the center of the experience.
 
 The UI combines:
+
 - Minimal dark visual styling
 - Purple accent system
 - Poppins and Inter typography
@@ -47,7 +52,8 @@ The UI combines:
 - Touch-friendly mobile controls
 - Clear visual hierarchy
 
-**♿ ACCESSIBILITY**:-
+**♿ ACCESSIBILITY** :-
+
 Accessibility was considered throughout the interactive experience.
 
 - Semantic HTML structure
@@ -63,7 +69,8 @@ Accessibility was considered throughout the interactive experience.
 - Focus restoration after closing the lightbox
 - Body scroll locking while the lightbox is active
 
-**⚡ PERFORMANCE CONSIDERATIONS**
+**⚡ PERFORMANCE CONSIDERATIONS** :-
+
 The project uses several browser-native techniques to improve image loading and perceived responsiveness.
 
 - `loading="lazy"` for gallery images
@@ -74,6 +81,7 @@ The project uses several browser-native techniques to improve image loading and 
 - Controlled image transitions
 
 **🧠 FRONTEND ENGINEERING HIGHLIGHTS** :-
+
 This project demonstrates practical experience with:
 
 - Responsive UI development
@@ -92,20 +100,24 @@ This project demonstrates practical experience with:
 - Git version control
 - GitHub Pages deployment
 
-**🛠️ TECHNOLOGY STACK**
+**🛠️ TECHNOLOGY STACK** :-
+
 **Frontend**
+
 - HTML5
 - Tailwind CSS
 - Vanilla JavaScript (ES6+)
 - CSS Animations & Transitions
 
 **Development & Deployment**
+
 - Git
 - GitHub
 - GitHub Pages
 
+**📂 PROJECT STRUCTURE** :-
 
-**📂 PROJECT STRUCTURE**
+```text
 CodeAlpha-Task1_Image-Gallery/
 │
 ├── index.html
