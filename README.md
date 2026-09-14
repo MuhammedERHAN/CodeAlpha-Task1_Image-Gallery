@@ -1,6 +1,6 @@
-**WANDER — RESPONSIVE IMAGE GALLERY**
+**WANDER — PREMIUM IMAGE GALLERY**
 
-A modern, responsive image gallery built with **HTML5, Tailwind CSS, and Vanilla JavaScript** as part of my **CodeAlpha Frontend Development Internship**.
+A premium, responsive image gallery built with **HTML5, Tailwind CSS, and Vanilla JavaScript** as part of my **CodeAlpha Frontend Development Internship**.
 
 Wander is designed as a visual-first browsing experience with responsive layouts, category filtering, an interactive lightbox, keyboard navigation, mobile swipe gestures, accessibility considerations, and performance-conscious image loading.
 
